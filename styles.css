@@ -1,0 +1,15 @@
+
+.product{
+    margin: 2%;
+    padding: 5px;
+    border: 1px solid blue;
+    width: 15%;
+    line-height: 0%;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    margin: 2%;
+}
